@@ -1,4 +1,4 @@
-print("Zan Koenig")
+print("Zan")
 
 print("test")
 
