@@ -1,5 +1,3 @@
-print("test")
+print("Hello World!")
 
-print("hello world")
-
-print("conflict")
+print("Error")
