@@ -1,0 +1,4 @@
+.nbviewer div.output_area {
+  overflow-y: auto;
+  max-height: 500px;
+}
