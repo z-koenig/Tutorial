@@ -1,0 +1,5 @@
+# macOS
+.DS_store
+
+# ipynb checkpoints
+.ipynb_checkpoints
